@@ -20,5 +20,20 @@ Because this hackathon primarily focused on San Diego high school students, we h
 
 A follow-up survey of 54 students revealed:
 * 64.8% of hackers attended their first hackathon at TritonHacks!
-* 92.6% used a starter kit
+* 92.6% of hackers used a starter kit
 * **93.8% of hackers attending high school next year plan to attend TritonHacks 2027**
+
+# Top Projects
+All projects can be viewed in full detail in our [Devpost gallery](https://tritonhacks-26.devpost.com/project-gallery). Below are some of the award-winning projects!
+
+- 🏆 **[First Prize] Conduit:** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
+
+- 🏆 **[Second Prize] Habibti:** "Habibti connects small importers to suppliers, ocean routes, and real freight prices. A swarm of agents does the sourcing, routing, and pricing so a single buyer competes with the top 0.1%."
+
+- 🏆 **[Third Prize] Clocked:** "Clocked is a social accountability app where users set goals, create deadlines, and post proof when they finish."
+
+- 🏆 **[Best UI/UX] Shared Skies:** "Leave your mark on this universe."
+
+- 🏆 **Palimpsest:** "A native iOS app for leaving stories in real places."
+
+- 🏆 **Agent Notch:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
