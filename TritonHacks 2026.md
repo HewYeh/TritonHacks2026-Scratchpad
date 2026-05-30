@@ -34,4 +34,4 @@ All projects can be viewed in full detail in our [Devpost gallery](https://trito
 
 - 🏆 **[Best Presentation ($100)] [Palimpsest](https://devpost.com/software/palimpsest-dor1yb):** "A native iOS app for leaving stories in real places."
 
-- 🏆 **[Most Innovative ($100)] (Agent Notch)[https://devpost.com/software/agent-notch]:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
+- 🏆 **[Most Innovative ($100)] [Agent Notch](https://devpost.com/software/agent-notch):** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
