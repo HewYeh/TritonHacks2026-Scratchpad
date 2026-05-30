@@ -34,6 +34,6 @@ All projects can be viewed in full detail in our [Devpost gallery](https://trito
 
 - 🏆 **[Best UI/UX] Shared Skies:** "Leave your mark on this universe."
 
-- 🏆 **Palimpsest:** "A native iOS app for leaving stories in real places."
+- 🏆 **[Best Presentation] Palimpsest:** "A native iOS app for leaving stories in real places."
 
-- 🏆 **Agent Notch:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
+- 🏆 **[Most Innovative] Agent Notch:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
