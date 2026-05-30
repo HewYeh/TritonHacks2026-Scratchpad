@@ -1,6 +1,6 @@
 # Triton Hacks 2026 Impact Report
- 🗓️ May 16–17, 2026\
- 💻 Hosted by CS Foreach\
+ 🗓️ May 16 to 17, 2026\
+ 💻 Hosted by [**CS Foreach**](https://www.linkedin.com/company/csforeach)\
  🌊 University of California San Diego, La Jolla, CA, USA
 
 # Event Overview
