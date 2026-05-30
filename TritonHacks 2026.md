@@ -26,14 +26,14 @@ A follow-up survey of 54 students revealed:
 # Top Projects
 All projects can be viewed in full detail in our [Devpost gallery](https://tritonhacks-26.devpost.com/project-gallery). Below are some of the award-winning projects!
 
-- 🏆 **[First Prize] Conduit:** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
+- 🏆 **[First Prize ($200)] [Conduit](https://devpost.com/software/conduit-sbq7go?_gl=1*1osv3jj*_gcl_au*MTI1NTY1MDkyNi4xNzgwMTc5NjIz*_ga*MTQ1MjgwMDM3MC4xNzgwMTc5NjIz*_ga_0YHJK3Y10M*czE3ODAxNzk2MjMkbzEkZzEkdDE3ODAxODAxMDUkajQwJGwwJGgw):** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
 
-- 🏆 **[Second Prize] Habibti:** "Habibti connects small importers to suppliers, ocean routes, and real freight prices. A swarm of agents does the sourcing, routing, and pricing so a single buyer competes with the top 0.1%."
+- 🏆 **[Second Prize ($120)] Habibti:** "Habibti connects small importers to suppliers, ocean routes, and real freight prices. A swarm of agents does the sourcing, routing, and pricing so a single buyer competes with the top 0.1%."
 
-- 🏆 **[Third Prize] Clocked:** "Clocked is a social accountability app where users set goals, create deadlines, and post proof when they finish."
+- 🏆 **[Third Prize ($100)] Clocked:** "Clocked is a social accountability app where users set goals, create deadlines, and post proof when they finish."
 
-- 🏆 **[Best UI/UX] Shared Skies:** "Leave your mark on this universe."
+- 🏆 **[Best UI/UX ($100)] Shared Skies:** "Leave your mark on this universe."
 
-- 🏆 **[Best Presentation] Palimpsest:** "A native iOS app for leaving stories in real places."
+- 🏆 **[Best Presentation ($100)] Palimpsest:** "A native iOS app for leaving stories in real places."
 
-- 🏆 **[Most Innovative] Agent Notch:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
+- 🏆 **[Most Innovative ($100)] Agent Notch:** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
