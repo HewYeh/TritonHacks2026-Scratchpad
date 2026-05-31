@@ -16,7 +16,7 @@ Because this hackathon primarily targeted San Diego high school students, we hos
 * 77 High school attendees
 * 24 Projects
 
-A follow-up survey of 54 students revealed:
+From a follow-up survey of 54 students:
 * 64.8% of hackers attended their first hackathon at TritonHacks!
 * 92.6% of hackers used a starter kit
 * **93.8% of hackers attending high school next year plan to attend TritonHacks 2027**
