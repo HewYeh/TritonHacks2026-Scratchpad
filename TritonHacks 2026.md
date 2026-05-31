@@ -13,7 +13,7 @@ We also offered starter kits for Machine Learning, Web Development, and MIT App 
 Because this hackathon primarily targeted San Diego high school students, we hosted our hackathon at the UC San Diego campus in the Computer Science and Engineering Building to provide students exposure to the university atmosphere and inspire students to potentially attend UC San Diego. All meals were also catered by local restaurants and vendors.
 
 # Event Metrics
-* 77 High School attendees
+* 77 High school attendees
 * 24 Projects
 
 A follow-up survey of 54 students revealed:
