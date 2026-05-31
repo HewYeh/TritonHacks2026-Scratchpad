@@ -8,9 +8,9 @@ TritonHacks is a two-day hackathon for high schoolers aimed at providing equitab
 
 Throughout the two days, workshops were hosted, allowing students to be self-guided and explore diverse topics in computing, including *Evidence-Based Brainstorming/Ideation*, *API Integration*, *AI Safety*, *Game Development in Roblox Studio*, *Virtual Reality (VR) in Unity*, *Computer Vision*, and *Feature Engineering for Quantitative Trading*. Additionally, students were given one-on-one assistance on their programming projects with mentors that provided regular check-ins and technical assistance.
 
-We also offered starter kits (Machine Learning, Web Development, and MIT App Inventor), designed for students to use as a framework and guide students to learn a new technology over the weekend. This year, our event theme was *connections*. Tutors were available throughout the event to assist students with the starter kits, GitHub, software engineering, and other issues.
+We also offered starter kits for Machine Learning, Web Development, and MIT App Inventor, designed for students to use as a framework and guide students to learn a new technology over the weekend. This year, our event theme was *connections*. Tutors were available throughout the event to assist students with the starter kits, GitHub, software engineering, and other issues.
 
-Because this hackathon primarily focused on San Diego high school students, we hosted our hackathon at the UC San Diego campus in the Computer Science and Engineering Building to provide students exposure to the university atmosphere and inspire students to potentially attend UC San Diego. All meals were also catered by local restaurants and vendors.
+Because this hackathon primarily targeted San Diego high school students, we hosted our hackathon at the UC San Diego campus in the Computer Science and Engineering Building to provide students exposure to the university atmosphere and inspire students to potentially attend UC San Diego. All meals were also catered by local restaurants and vendors.
 
 # Event Metrics
 * 77 High School Attendees
