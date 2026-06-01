@@ -1,0 +1,93 @@
+# TH26-Impact-Report
+
+# TritonHacks 2026
+
+🗓️ May 16–17, 2026\
+💻 Hosted by [**CS Foreach**](https://www.linkedin.com/company/csforeach)\
+🌊 University of California, San Diego, La Jolla, CA, USA
+
+---
+
+## 📋 Event Summary
+
+TritonHacks is a two-day hackathon for high schoolers aimed at providing equitable access to computer science education, especially for disadvantaged local communities, to better prepare students for careers in science, technology, engineering, and math (STEM) fields. The hackathon is organized by members of CS Foreach, a student organization at UC San Diego that strives to make access to computer science education, opportunities, and resources more equitable for each and every student.
+
+Throughout the two days, CS Foreach members/alumni and various UC San Diego clubs hosted workshops which allowed students to independently explore diverse topics in computing. Workshops included _Evidence-Based Brainstorming/Ideation_, _API Integration_, _AI Safety_, _Game Development in Roblox Studio_, _Virtual Reality (VR) in Unity_, _Computer Vision_, and _Feature Engineering for Quantitative Trading_. Additionally, students were given one-on-one assistance on their programming projects with mentors that provided regular check-ins and technical assistance.
+
+We also offered starter kits for Machine Learning, Web Development, and MIT App Inventor, designed as a framework and guide for students to learn a new technology over the weekend. This year, our event theme was _connections_. Tutors were available throughout the event to assist students with the starter kits, GitHub, software engineering, and other issues.
+
+Because this hackathon primarily targeted San Diego high school students, we hosted our hackathon at the UC San Diego campus in the Computer Science and Engineering Building to provide students exposure to the university atmosphere and inspire students to potentially attend UC San Diego. All meals were also catered by local restaurants and vendors.
+
+---
+
+## 📊 Event Metrics
+
+| Attendees |                                   Projects                                    |
+| :-------: | :---------------------------------------------------------------------------: |
+|   👥 77   | 🛠️ 24 ([Project Gallery](https://tritonhacks-26.devpost.com/project-gallery)) |
+
+##### 🪪 Gender Breakdown of Signups:
+
+- 👩 **26.32% Female** (She/Her: 25)
+- 👨 **71.58% Male** (He/Him: 68)
+- 🧑 **2.11% Nonbinary** (They/Them: 1, I/Me: 1)
+
+##### 🎓 Sign Ups by Grade Level:
+
+Mostly 11th graders (~51%). Breakdown: 9th Grade: 18, 10th Grade: 22, 11th Grade: 48, 12th Grade: 7
+
+##### 📝 From a follow-up survey of 54 students:
+
+- 🌟 **64.8%** of hackers attended their first hackathon at TritonHacks!
+- 📦 **92.6%** of hackers used a starter kit
+- 🔁 **93.8% of hackers attending high school next year plan to attend TritonHacks 2027**
+
+---
+
+## 🏆 Top Projects
+
+All projects can be viewed in full detail in our [Devpost gallery](https://tritonhacks-26.devpost.com/project-gallery). Below are some of the award-winning projects!
+
+🏆 **[First Prize ($200)] [Conduit](https://devpost.com/software/conduit-sbq7go):** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
+
+🥈 **[Second Prize ($120)] [Habibti](https://devpost.com/software/habibti):** "Habibti connects small importers to suppliers, ocean routes, and real freight prices. A swarm of agents does the sourcing, routing, and pricing so a single buyer competes with the top 0.1%."
+
+🥉 **[Third Prize ($100)] [Clocked](https://devpost.com/software/clocked-mg6qzr):** "Clocked is a social accountability app where users set goals, create deadlines, and post proof when they finish."
+
+🎨 **[Best UI/UX ($100)] [Shared Skies](https://devpost.com/software/shared-skies):** "Leave your mark on this universe."
+
+🎤 **[Best Presentation ($100)] [Palimpsest](https://devpost.com/software/palimpsest-dor1yb):** "A native iOS app for leaving stories in real places."
+
+💡 **[Most Innovative ($100)] [Agent Notch](https://devpost.com/software/agent-notch):** "Your agent in the notch. A little pal that watches, learns, and acts with you, connecting you to AI through your cursor."
+
+---
+
+## 📸 Event Photos
+
+All of the photos can be found on our [public album]([https://photos.app.goo.gl/7SH23n8SHvQcizQR8]) but here are a few highlights!
+
+|                                     |         |
+| ----------------------------------- | ------- |
+| ✅ **Checking-in**                  | [PHOTO] |
+| 🎉 **Opening Ceremony**             | [PHOTO] |
+| 🧑‍🏫 **Workshopping**                 | [PHOTO] |
+| 💻 **Students Working on Projects** | [PHOTO] |
+| 🙋 **Tutors Helping**               | [PHOTO] |
+| ⚖️ **Judging**                      | [PHOTO] |
+| 🎊 **Closing Ceremony**             | [PHOTO] |
+
+---
+
+## 🔭 What's Next?
+
+TritonHacks is an annual hackathon. Our next event will likely take place around the same time next year (May 2027). This year, in our sixth iteration of TritonHacks, we were able to successfully host another in-person event and by doing so, we continued to lay a foundation for future iterations of the event. With enough support, we hope to scale up our event next year by reaching a bigger, more diverse audience who may not have known about the event or been comfortable enough to attend this year.
+
+We had an overwhelming positive response from the hackers that competed — learning new skills and making new connections at the event! With the support from UC San Diego and corporate sponsors, we were able to take TritonHacks to the next level as an event with a real impact on its community. Many of our hackers this year were first-time hackers and we hope that they each continue to share and foster their interest in STEM topics through passion projects, higher education, and hackathon participation!
+
+🌐 [tritonhacks.org](https://www.tritonhacks.org/)\
+📸 [TritonHacks Instagram](https://www.instagram.com/ucsdtritonhacks/)\
+👤 [TritonHacks Facebook](https://www.facebook.com/triton.hacks)
+
+Our parent organization: [csforeach.org](https://csforeach.org/)\
+🐦 [CS foreach Twitter](https://twitter.com/cforeach)\
+👤 [CS foreach Facebook](https://www.facebook.com/csforeach)
