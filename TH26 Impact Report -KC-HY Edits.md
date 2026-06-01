@@ -59,7 +59,8 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 |                                     |         |
 | ----------------------------------- | ------- |
 | ✅ **Checking-in**                  |  |
-| 🎉 **Opening Ceremony**             | [PHOTO] |
+| 🎉 **Opening Ceremony**             | <img width="6000" height="4000" alt="TH26_Opening_Ceremony_Red_Confetti" src="https://github.com/user-attachments/assets/9656e752-38ee-4d0d-9d0c-f3de2b8f960e" />|
+| 🪪 **Staff Introductions**           |<img alt="TH26_Staff_Intros" src="https://github.com/user-attachments/assets/3e7ecf6e-27a8-441e-8d55-62b5a8b2756d" />|
 | 🧑‍🏫 **Workshopping**                 | [PHOTO] |
 | 💻 **Students Working on Projects** | [PHOTO] |
 | 🙋 **Tutors Helping**               | [PHOTO] |
