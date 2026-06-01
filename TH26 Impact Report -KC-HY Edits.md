@@ -60,10 +60,13 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 | ----------------------------------- | ------- |
 | 🎉 **Opening Ceremony**             | <img alt="TH26_Opening_Ceremony_Red_Confetti" src="https://github.com/user-attachments/assets/9656e752-38ee-4d0d-9d0c-f3de2b8f960e" />|
 | 🪪 **Staff Introductions**           |<img alt="TH26_Staff_Intros" src="https://github.com/user-attachments/assets/3e7ecf6e-27a8-441e-8d55-62b5a8b2756d" /> |
-| 🧑‍🏫 **Workshopping**                 | <img alt="TH26_API_Workshop" src="https://github.com/user-attachments/assets/4fa4e35c-1371-4fd1-981f-015b3f5bc61c" /> <img alt="TH26_AI_Workshop_RealWaysPeopleHackAI" src="https://github.com/user-attachments/assets/371e7ef1-8612-45af-a8a8-0bd3d5af1227" />|
+| 🧑‍🏫 **Workshopping**                 | <img alt="TH26_API_Workshop" src="https://github.com/user-attachments/assets/4fa4e35c-1371-4fd1-981f-015b3f5bc61c" /> <img alt="TH26_AI_Workshop_RealWaysPeopleHackAI" src="https://github.com/user-attachments/assets/371e7ef1-8612-45af-a8a8-0bd3d5af1227" /> <img alt="TH26_RobloxDev" src="https://github.com/user-attachments/assets/6cc72ed9-28dd-4632-9ee8-201442915a00" />|
 | 💻 **Students Working on Projects** | [PHOTO] |
 | 🙋 **Tutors Helping**               | [PHOTO] |
-| ⚖️ **Judging**                      | [PHOTO] |
+| ⚖️ **Judging**                      | <img alt="TH26_Judges_Preparing" src="https://github.com/user-attachments/assets/87657d7d-9a5e-49cc-91a1-ff425faa4eea" />
+<img alt="TH26_Judging_Photo" src="https://github.com/user-attachments/assets/1436a97c-e97d-490e-ba38-4a65da1868d8" />
+ |
+| 🏫 **College Advice & Planning Panel**       | <img alt="TH26_College_Advice_Panel" src="https://github.com/user-attachments/assets/bbc1f3db-4bf3-4eae-8e69-ff92e9b90d9e" />|
 | 🎊 **Closing Ceremony**             | [PHOTO] |
 | 👏 **TritonHacks 2026 Team**        |<img alt="TH26_Team" src="https://github.com/user-attachments/assets/a0a96fb5-9ad6-4dd2-84cf-80526cc8490d" />|
 
