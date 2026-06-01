@@ -3,8 +3,8 @@
 # TritonHacks 2026
 
 🗓️ May 16–17, 2026\
-💻 Hosted by [**CS Foreach**](https://www.linkedin.com/company/csforeach)\
-🌊 University of California, San Diego, La Jolla, CA, USA
+💻 Hosted by [**CS Foreach**](https://csforeach.org)\
+🌊 University of California San Diego, La Jolla, CA, USA
 
 ---
 
@@ -26,21 +26,11 @@ Because this hackathon primarily targeted San Diego high school students, we hos
 | :-------: | :---------------------------------------------------------------------------: |
 |   👥 77   | 🛠️ 24 ([Project Gallery](https://tritonhacks-26.devpost.com/project-gallery)) |
 
-##### 🪪 Gender Breakdown of Signups:
-
-- 👩 **26.32% Female** (She/Her: 25)
-- 👨 **71.58% Male** (He/Him: 68)
-- 🧑 **2.11% Nonbinary** (They/Them: 1, I/Me: 1)
-
-##### 🎓 Sign Ups by Grade Level:
-
-Mostly 11th graders (~51%). Breakdown: 9th Grade: 18, 10th Grade: 22, 11th Grade: 48, 12th Grade: 7
-
 ##### 📝 From a follow-up survey of 54 students:
 
 - 🌟 **64.8%** of hackers attended their first hackathon at TritonHacks!
 - 📦 **92.6%** of hackers used a starter kit
-- 🔁 **93.8% of hackers attending high school next year plan to attend TritonHacks 2027**
+- 🔁 **93.8% of hackers attending high school next year plan to attend TritonHacks 2027!**
 
 ---
 
@@ -80,9 +70,9 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 
 ## 🔭 What's Next?
 
-TritonHacks is an annual hackathon. Our next event will likely take place around the same time next year (May 2027). This year, in our sixth iteration of TritonHacks, we were able to successfully host another in-person event and by doing so, we continued to lay a foundation for future iterations of the event. With enough support, we hope to scale up our event next year by reaching a bigger, more diverse audience who may not have known about the event or been comfortable enough to attend this year.
+TritonHacks is an annual hackathon. Our next event will likely take place around the same time next year (May 2027). This year, in our sixth iteration of TritonHacks, we were able to successfully host another in-person event and by doing so, we continued to lay a foundation for future hackathons. With enough support, we hope to scale up our event next year by reaching a bigger, more diverse student population who may not have known about the event or been comfortable enough to attend this year.
 
-We had an overwhelming positive response from the hackers that competed — learning new skills and making new connections at the event! With the support from UC San Diego and corporate sponsors, we were able to take TritonHacks to the next level as an event with a real impact on its community. Many of our hackers this year were first-time hackers and we hope that they each continue to share and foster their interest in STEM topics through passion projects, higher education, and hackathon participation!
+We had an overwhelming positive response from the hackers that competed — learning new skills and making new connections at the event! With the support from UC San Diego and our corporate sponsors, we were able to take TritonHacks to the next level as an event with a real impact on its community. Many of our hackers this year were first-time hackers and we hope that they each continue to share and foster their interest in STEM topics through passion projects, higher education, and hackathon participation!
 
 🌐 [tritonhacks.org](https://www.tritonhacks.org/)\
 📸 [TritonHacks Instagram](https://www.instagram.com/ucsdtritonhacks/)\
