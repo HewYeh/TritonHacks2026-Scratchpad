@@ -38,7 +38,7 @@ Because this hackathon primarily targeted San Diego high school students, we hos
 
 All projects can be viewed in full detail in our [Devpost gallery](https://tritonhacks-26.devpost.com/project-gallery). Below are some of the award-winning projects!
 
-🏆 **[First Prize ($200)] [Conduit](https://devpost.com/software/conduit-sbq7go):** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
+🥇 **[First Prize ($200)] [Conduit](https://devpost.com/software/conduit-sbq7go):** "Silent video to text for mute people, for privacy, or when the environment is too loud. A webcam reads your silent lip movements and speaks them aloud. Open-vocabulary, Conduit restores connection."
 
 🥈 **[Second Prize ($120)] [Habibti](https://devpost.com/software/habibti):** "Habibti connects small importers to suppliers, ocean routes, and real freight prices. A swarm of agents does the sourcing, routing, and pricing so a single buyer competes with the top 0.1%."
 
@@ -58,10 +58,9 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 
 |                                     |         |
 | ----------------------------------- | ------- |
-| ✅ **Checking-in**                  |  |
-| 🎉 **Opening Ceremony**             | <img width="6000" height="4000" alt="TH26_Opening_Ceremony_Red_Confetti" src="https://github.com/user-attachments/assets/9656e752-38ee-4d0d-9d0c-f3de2b8f960e" />|
-| 🪪 **Staff Introductions**           |<img alt="TH26_Staff_Intros" src="https://github.com/user-attachments/assets/3e7ecf6e-27a8-441e-8d55-62b5a8b2756d" />|
-| 🧑‍🏫 **Workshopping**                 | [PHOTO] |
+| 🎉 **Opening Ceremony**             | <img alt="TH26_Opening_Ceremony_Red_Confetti" src="https://github.com/user-attachments/assets/9656e752-38ee-4d0d-9d0c-f3de2b8f960e" />|
+| 🪪 **Staff Introductions**           |<img alt="TH26_Staff_Intros" src="https://github.com/user-attachments/assets/3e7ecf6e-27a8-441e-8d55-62b5a8b2756d" /> |
+| 🧑‍🏫 **Workshopping**                 | <img alt="TH26_API_Workshop" src="https://github.com/user-attachments/assets/4fa4e35c-1371-4fd1-981f-015b3f5bc61c" /> <img alt="TH26_AI_Workshop_RealWaysPeopleHackAI" src="https://github.com/user-attachments/assets/371e7ef1-8612-45af-a8a8-0bd3d5af1227" />|
 | 💻 **Students Working on Projects** | [PHOTO] |
 | 🙋 **Tutors Helping**               | [PHOTO] |
 | ⚖️ **Judging**                      | [PHOTO] |
