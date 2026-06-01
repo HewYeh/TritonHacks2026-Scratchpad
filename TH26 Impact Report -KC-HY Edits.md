@@ -58,13 +58,14 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 
 |                                     |         |
 | ----------------------------------- | ------- |
-| ✅ **Checking-in**                  | <img alt="TH26_Volunteers" src="https://github.com/user-attachments/assets/a0a96fb5-9ad6-4dd2-84cf-80526cc8490d" /> |
+| ✅ **Checking-in**                  |  |
 | 🎉 **Opening Ceremony**             | [PHOTO] |
 | 🧑‍🏫 **Workshopping**                 | [PHOTO] |
 | 💻 **Students Working on Projects** | [PHOTO] |
 | 🙋 **Tutors Helping**               | [PHOTO] |
 | ⚖️ **Judging**                      | [PHOTO] |
 | 🎊 **Closing Ceremony**             | [PHOTO] |
+| 👏 **TritonHacks 2026 Team**        |<img alt="TH26_Team" src="https://github.com/user-attachments/assets/a0a96fb5-9ad6-4dd2-84cf-80526cc8490d" />|
 
 ---
 
