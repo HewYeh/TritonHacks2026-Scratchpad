@@ -14,7 +14,7 @@ TritonHacks is a two-day hackathon for high schoolers aimed at providing equitab
 
 Throughout the two days, CS Foreach members/alumni and various UC San Diego clubs hosted workshops which allowed students to independently explore diverse topics in computing. Workshops included _Evidence-Based Brainstorming/Ideation_, _API Integration_, _AI Safety_, _Game Development in Roblox Studio_, _Virtual Reality (VR) in Unity_, _Computer Vision_, and _Feature Engineering for Quantitative Trading_. Additionally, students were given one-on-one assistance on their programming projects with mentors that provided regular check-ins and technical assistance.
 
-We also offered starter kits for Machine Learning, Web Development, and MIT App Inventor, designed as a framework and guide for students to learn a new technology over the weekend. This year, our event theme was _connections_. Tutors were available throughout the event to assist students with the starter kits, GitHub, software engineering, and other issues.
+We also offered starter kits for Machine Learning, Web Development, and MIT App Inventor, designed as a framework and guide for students to learn a new technology over the weekend. This year, our event theme was _connections_. Tutors were available throughout the event to assist students with the starter kits, GitHub, troubleshooting, software engineering, and other issues.
 
 Because this hackathon primarily targeted San Diego high school students, we hosted our hackathon at the UC San Diego campus in the Computer Science and Engineering Building to provide students exposure to the university atmosphere and inspire students to potentially attend UC San Diego. All meals were also catered by local restaurants and vendors.
 
@@ -29,7 +29,7 @@ Because this hackathon primarily targeted San Diego high school students, we hos
 ##### 📝 From a follow-up survey of 54 students:
 
 - 🌟 **64.8%** of hackers attended their first hackathon at TritonHacks!
-- 📦 **92.6%** of hackers used a starter kit
+- 📦 **92.6%** of hackers used a starter kit.
 - 🔁 **93.8% of hackers attending high school next year plan to attend TritonHacks 2027!**
 
 ---
@@ -62,10 +62,9 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 | 🪪 **Staff Introductions**           |<img alt="TH26_Staff_Intros" src="https://github.com/user-attachments/assets/3e7ecf6e-27a8-441e-8d55-62b5a8b2756d" /> |
 | 🧑‍🏫 **Workshopping**                 | <img alt="TH26_API_Workshop" src="https://github.com/user-attachments/assets/4fa4e35c-1371-4fd1-981f-015b3f5bc61c" /> <img alt="TH26_AI_Workshop_RealWaysPeopleHackAI" src="https://github.com/user-attachments/assets/371e7ef1-8612-45af-a8a8-0bd3d5af1227" /> <img alt="TH26_RobloxDev" src="https://github.com/user-attachments/assets/6cc72ed9-28dd-4632-9ee8-201442915a00" />|
 | 💻 **Students Working on Projects** | <img alt="Th26_StudentsCoding3" src="https://github.com/user-attachments/assets/a9387942-e70d-4a93-b708-3c9202a536ba" /> <img alt="Th26_StudentsCoding" src="https://github.com/user-attachments/assets/d9ab4158-0418-4ca1-90da-530061fdc11c" /> <img alt="Th26_Students_Coding1" src="https://github.com/user-attachments/assets/4f3b7f30-ed4c-40ff-81ec-fb56f54cfc2c" />|
-| 🙋 **Tutors Helping**               | [PHOTO] |
 | ⚖️ **Judging**                      | <img alt="TH26_Judges_Preparing" src="https://github.com/user-attachments/assets/87657d7d-9a5e-49cc-91a1-ff425faa4eea" /><img alt="TH26_Judging_Photo" src="https://github.com/user-attachments/assets/1436a97c-e97d-490e-ba38-4a65da1868d8" /> <img alt="TH26_Judging" src="https://github.com/user-attachments/assets/35b3423f-b1b8-4956-8c66-6db3ec64c3aa" />
 | 🏫 **College Advice & Planning Panel**       | <img alt="TH26_College_Advice_Panel" src="https://github.com/user-attachments/assets/bbc1f3db-4bf3-4eae-8e69-ff92e9b90d9e" />|
-| 🎊 **Closing Ceremony**             | <img width="4608" height="3456" alt="Th26_StudentsCoding3" src="https://github.com/user-attachments/assets/771908f7-82c1-402f-b838-20759f63b9ca" /> |
+| 🎊 **Closing Ceremony**             |  <img alt="TH26_ClosingCeremony" src="https://github.com/user-attachments/assets/466c6909-2522-4c9a-94ec-8fe6ea472361" />|
 | 👏 **TritonHacks 2026 Team**        |<img alt="TH26_Team" src="https://github.com/user-attachments/assets/a0a96fb5-9ad6-4dd2-84cf-80526cc8490d" />|
 
 ---
