@@ -58,7 +58,7 @@ All of the photos can be found on our [public album]([https://photos.app.goo.gl/
 
 |                                     |         |
 | ----------------------------------- | ------- |
-| ✅ **Checking-in**                  | [PHOTO] |
+| ✅ **Checking-in**                  | <img alt="TH26_Volunteers" src="https://github.com/user-attachments/assets/a0a96fb5-9ad6-4dd2-84cf-80526cc8490d" /> |
 | 🎉 **Opening Ceremony**             | [PHOTO] |
 | 🧑‍🏫 **Workshopping**                 | [PHOTO] |
 | 💻 **Students Working on Projects** | [PHOTO] |
